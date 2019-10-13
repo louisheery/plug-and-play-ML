@@ -8,3 +8,5 @@ Simple Supervised &amp; Unsupervised Machine Learning Models that can be applied
 | File                       | Contents                                                       |
 |----------------------------|----------------------------------------------------------------|
 | boosted-decision-tree.py | XGBoost BDT Model        |
+
+Note: More Models will be added in the near future.
