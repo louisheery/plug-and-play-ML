@@ -8,6 +8,8 @@
 
 Simple Supervised &amp; Unsupervised Machine Learning Models that can be applied to Static and Time Series datasets.
 
+![alt text](https://github.com/louisheery/plug-and-play-ML/blob/master/plug-and-play-ML-screenshots.png)
+
 ## Repo Contents
 ### 1. Boosted Decision Trees (boosted-decision-tree-ml)
 A Supervised Learning Boosted Decision Tree Classifier using the XGBoost Python Library.
