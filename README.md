@@ -9,13 +9,13 @@
 Simple Supervised &amp; Unsupervised Machine Learning Models that can be applied to Static and Time Series datasets.
 
 ## Repo Contents
-### Boosted Decision Trees (boosted-decision-tree-ml)
+### 1. Boosted Decision Trees (boosted-decision-tree-ml)
 A Supervised Learning Boosted Decision Tree Classifier using the XGBoost Python Library.
 
-### SARIMAX Time Series Prediction Models
+### 2. SARIMAX Time Series Prediction Models
 An Unsupervised Time Series SARIMAX Time Series Predictor, which has been implemented to predict anomaly user activity on the Los Alamos National Laboratory Dataset.
 
-### LSTM Neural Network Prediction Models
+### 3. LSTM Neural Network Prediction Models
 An Unsupervised Time Series LSTM Neural Network Predictor, which has been implemented to predict anomaly user activity on the Los Alamos National Laboratory Dataset.
 
 ## Download Repo
