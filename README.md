@@ -2,7 +2,7 @@
 # Plug and Play ML
 
 [![Build Status](https://img.shields.io/badge/python-3-blue)](https://github.com/louisheery/plug-and-play-ML)
-[![Build Status](https://img.shields.io/badge/build-v1.1-green)](https://github.com/louisheery/plug-and-play-ML)
+[![Build Status](https://img.shields.io/badge/build-v1.1-brightgreen)](https://github.com/louisheery/plug-and-play-ML)
 [![Build Status](https://img.shields.io/badge/build_status-alpha-orange)](https://github.com/louisheery/plug-and-play-ML)
 
 
