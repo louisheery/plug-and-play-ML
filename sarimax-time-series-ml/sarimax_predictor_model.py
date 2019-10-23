@@ -9,21 +9,12 @@
 #                                                                #
 ##################################################################
 
-import math
-import os
-import warnings
-
 import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
 import statsmodels.api as sm
-import statsmodels.tsa.api as smt
-from matplotlib import pyplot as plt
-from pandas import read_csv
-from sklearn.metrics import mean_squared_error
-from statsmodels.tsa.arima_model import ARIMA, ARIMAResults
 
-from sarimax_graph_plotter import find_anomaly_values, round_up, plotSARIMAXGraph
+from sarimax_graph_plotter import plotSARIMAXGraph
 
 # define seasonality to by weekly, can replace with "day" for day long seasonality time series analysis
 week_or_day_seasonality = "week"
