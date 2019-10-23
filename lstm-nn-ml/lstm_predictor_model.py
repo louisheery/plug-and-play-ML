@@ -138,7 +138,7 @@ def lstmPredictorModel(usernumber):
         inverted = scalerRange.inverse_transform(temp_array)
         predictedValue = inverted[0, -1]
 
-        # save predicted values to array
+        # save predicted values to array
         predictionsArray.append(10**predictedValue)
         expected = actualValuesLog[len(trainData) + i]
     print("TESTING FINISHED")
