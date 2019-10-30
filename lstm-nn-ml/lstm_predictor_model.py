@@ -67,7 +67,7 @@ def lstmPredictorModel(usernumber):
     print("User Number = " + str(usernumber))
     print("******")
 
-    filename = "lanl_dataset_user" + str(usernumber) + ".csv"
+    filename = "/data-outputs/lanl_dataset_user" + str(usernumber) + ".csv"
     user = np.genfromtxt(filename, delimiter=",")
     df = pd.DataFrame(user)
 
@@ -151,7 +151,7 @@ def lstmPredictorModel(usernumber):
 
     # save train, test and predicted data to CSV file
     dataSaver = np.vstack((timeData,trainData,testData,predictedData))
-    filename = 'lstm_results_user" + str(k) + ".csv'
+    filename = '/data-outputs/lstm_results_user" + str(k) + ".csv'
     np.savetxt(filename, dataSaver, delimiter=',')
 
     # plot graph & save graph as PNG

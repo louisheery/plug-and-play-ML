@@ -34,7 +34,7 @@ def lstmPredictorModel(usernumber):
     print("******")
 
     # import user time series data -> to be used as training&testing time series
-    filename = "lanl_dataset_user" + str(usernumber) + ".csv"
+    filename = "/data-outputs/lanl_dataset_user" + str(usernumber) + ".csv"
     user = np.genfromtxt(filename, delimiter=",")
     df = pd.DataFrame(user)
 
@@ -105,7 +105,7 @@ def lstmPredictorModel(usernumber):
 
     # save train, test and predicted data to CSV file
     datasaver = np.vstack((timeData,trainData,testData,predictedData))
-    filename = "sarimax_results_user" + str(usernumber) + ".csv"
+    filename = "/data-outputs/sarimax_results_user" + str(usernumber) + ".csv"
     np.savetxt(filename, datasaver, delimiter=',')
 
     # plot graph & save graph as PNG
