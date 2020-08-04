@@ -11,4 +11,4 @@ An Unsupervised Time Series SARIMAX Time Series Predictor, which has been implem
 - [SARIMAX Prediction Model](sarimax_predictor_model.py)
 - [Graph Plotter for SARIMAX Model Results](sarimax_graph_plotter.py)
 - [Training and Test Dataset](data-outputs/lanl_dataset-user2.csv)
-- [Output Graph of Trained SARIMAX Model](data-outputs/SARIMAX_6weekly_user2.pdf)
+- [Output Graph of Trained SARIMAX Model](data-outputs/SARIMAX_weekly_user_2.pdf)
