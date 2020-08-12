@@ -425,13 +425,13 @@ class ClaimClassifier():
 
     def save_model(self):
         # Please alter this file appropriately to work in tandem with your load_model function below
-        with open('part2_claim_classifier.pickle', 'wb') as target:
+        with open('car_insurance_claim_classifier.pickle', 'wb') as target:
             pickle.dump(self, target)
 
 
     def load_model(self):
         # Please alter this section so that it works in tandem with the save_model method of your class
-        with open('part2_claim_classifier.pickle', 'rb') as target:
+        with open('car_insurance_claim_classifier.pickle', 'rb') as target:
             trained_model = pickle.load(target)
         return trained_model
 
