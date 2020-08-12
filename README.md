@@ -2,7 +2,7 @@
 # Plug and Play ML
 
 [![Build Status](https://img.shields.io/badge/python-3-blue)](https://github.com/louisheery/plug-and-play-ML)
-[![Build Status](https://img.shields.io/badge/build-v1.1-brightgreen)](https://github.com/louisheery/plug-and-play-ML)
+[![Build Status](https://img.shields.io/badge/build-v1.2-brightgreen)](https://github.com/louisheery/plug-and-play-ML)
 [![Build Status](https://img.shields.io/badge/build_status-published-brightgreen)](https://github.com/louisheery/plug-and-play-ML)
 
 
@@ -23,7 +23,7 @@ An Unsupervised Time Series LSTM Neural Network Predictor, which has been implem
 ### [4. Convolutional Neural Network Image Classifier](computer-vision-ml)
 A Convolutional Neural Network Image Classifier for Images of Fashion Items using the PyTorch Python Library.
 
-### [5. Neural Network Model](lstm-nn-ml)
+### [5. Neural Network Model](neural-network-ml)
 A Neural Network Classifier for Predicting Car Insurance Prices using the PyTorch Python Library.
 
 ## Download Repo
@@ -35,5 +35,5 @@ $ git clone https://github.com/louisheery/plug-and-play-ML.git
 ```
 
 
-## 
+##
 *Note: More Models will be added in the near future.*

@@ -338,7 +338,7 @@ class ClaimClassifier():
 
         return pred_y
 
-    # QUESTION 2.2
+
     def evaluate_architecture(self, X_raw, y_raw):
         """Architecture evaluation utility.
 

@@ -5,7 +5,7 @@
 [![Build Status](https://img.shields.io/badge/build_status-published-brightgreen)](https://github.com/louisheery/plug-and-play-ML)
 
 ### 5. Neural Network
-A Neural Network Classifier for Predicting Car Insurance Prices using the PyTorch Python Library.
+A Neural Network Image Classifier for Predicting Car Insurance Prices using the PyTorch Python Library.
 
 #### Contents
 - [Neural Network Price Prediction Model](insurance-price-prediction-ml.py)
