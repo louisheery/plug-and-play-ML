@@ -11,6 +11,7 @@ A Neural Network Image Classifier for Predicting Car Insurance Prices using the 
 - [Neural Network Price Prediction Model](insurance-price-prediction-ml.py)
 
 #### Codebase Readout
+```
 --- START ---
 --- 1. Defining Neural Network ---
 --- 2. Datadset Import & Loading & Pre-processing ---
@@ -68,3 +69,4 @@ ROC Accuracy:
 0.612426737460403
 --- 7. Finding Optimal Hyperparameters of Neural Network Classifier ---
 [skipped]
+'''

@@ -11,6 +11,7 @@ A Convolutional Neural Network Image Classifier for Images of Fashion Items usin
 - [Convolutional Neural Network Image Classifier](image-classification.py)
 
 #### Codebase Readout
+```
 --- START ---
 --- Dataset Import & Loading ---
 --- Defining Convolutional Neural Network ---
@@ -23,3 +24,4 @@ Training Finished. Time Taken:  3554.201295852661  seconds.
 --- Testing & Evaluting Convolutional Neural Network Model ---
 Testing Finished. Time Taken:  16.778626918792725  seconds.
 Classification Accuracy  0.86745
+'''
